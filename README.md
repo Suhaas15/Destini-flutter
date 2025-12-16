@@ -22,8 +22,6 @@ See the adventure unfold on both platforms!
 |:--------------------------------------------------------:|:------------------------------------------------:|
 | <img src="images/Android.png" width="250" alt="Android"> | <img src="images/IOS.png" width="250" alt="IOS"> |
 
-*(Place your screenshots in a `screenshots` folder and update the paths above!)*
-
 ---
 
 ## ✨ Features
